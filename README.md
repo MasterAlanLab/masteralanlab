@@ -17,7 +17,7 @@
   <a href="https://space.bilibili.com/3691004225914941" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
   </a>
-  <a href="https://www.douyin.com/user/61689468000" target="_blank">
+  <a href="https://v.douyin.com/LzR5Sns8mQU" target="_blank">
     <img src="https://img.shields.io/badge/Douyin-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Douyin">
   </a>
   <a href="https://www.kuaishou.com/profile/3x77ra8rcg7fpne" target="_blank">
